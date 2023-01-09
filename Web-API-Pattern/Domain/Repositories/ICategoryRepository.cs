@@ -1,5 +1,3 @@
-using System.Collections.Generic;
-using System.Threading.Tasks;
 using Web_API_Pattern.Domain.Models;
 
 namespace Web_API_Pattern.Domain.Repositories
